@@ -1,27 +1,39 @@
-# J4F_sohail
-
-<h1 align="center">🔥 J4FSOHAIL 🔥</h1>
-<h3 align="center">Python • Linux • Termux • Open Source Learner</h3>
+# j4fsohail 
+<h1 align="center">🔐 Password Strength Analyzer</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20Daily-brightgreen" />
-  <img src="https://img.shields.io/badge/Platform-Termux%20(Android)-blue" />
-  <img src="https://img.shields.io/badge/Focus-Open%20Source-orange" />
+  <b>Security • Logic • Python • CLI</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning%20Project-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Security%20Fundamentals-red" />
+  <img src="https://img.shields.io/badge/Environment-Linux--based-blue" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 📱 Learning & practicing **on Android using Termux**
-- 🐍 Python beginner with strong interest in **Linux**
-- 🌱 Exploring **Ethical Hacking & Open Source**
-- ⚡ Believer in **consistency over motivation**
+## 🧠 Overview
+This project is a **command-line password strength analyzer** built to understand  
+**password hygiene, validation logic, and basic security principles**.
+
+Instead of relying on tools, this project focuses on  
+👉 *how password strength is evaluated internally.*
+
+---
+
+## ⚙️ Features
+- 🔍 Analyzes password length
+- 🔐 Checks for uppercase, lowercase, digits & symbols
+- ⚠️ Detects weak password patterns
+- 📊 Gives clear strength feedback (Weak / Medium / Strong)
+- 💻 Simple & fast CLI-based interaction
 
 ---
 
 ## 🛠 Tech Stack
 ```text
-💻 Languages   : Python
-🖥 OS          : Linux (Termux)
-🔧 Tools       : Git, GitHub, Nmap, John the Ripper
-📦 Skills      : CLI, Basics of Networking & Security
+Language        : Python
+Environment     : Linux-based CLI
+Concepts Used  : String handling, conditionals, loops
+Focus Area     : Security fundamentals
