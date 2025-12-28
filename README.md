@@ -1,4 +1,4 @@
-# j4fsohail 
+# cyber-cli-toolkit
 <h1 align="center">⚡ Cyber CLI Toolkit</h1>
 <h3 align="center">Advanced CLI • Automation • Security Fundamentals</h3>
 
