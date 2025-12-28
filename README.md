@@ -1,33 +1,29 @@
 # j4fsohail 
-<h1 align="center">🔐 Password Strength Analyzer</h1>
+<h1 align="center">⚡ Cyber CLI Toolkit ⚡</h1>
+<h3 align="center">Multi-Skill • Automation • Security • Linux Mindset</h3>
 
 <p align="center">
-  <b>Security • Logic • Python • CLI</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20Project-brightgreen" />
-  <img src="https://img.shields.io/badge/Focus-Security%20Fundamentals-red" />
+  <img src="https://img.shields.io/badge/Type-CLI%20Toolkit-black" />
+  <img src="https://img.shields.io/badge/Focus-System%20%26%20Security-red" />
   <img src="https://img.shields.io/badge/Environment-Linux--based-blue" />
 </p>
 
 ---
 
 ## 🧠 Overview
-This project is a **command-line password strength analyzer** built to understand  
-**password hygiene, validation logic, and basic security principles**.
+**Cyber CLI Toolkit** is a learning-focused command-line project designed to build  
+a **strong foundation in system awareness, security concepts, and automation**.
 
-Instead of relying on tools, this project focuses on  
-👉 *how password strength is evaluated internally.*
+This toolkit combines **multiple small utilities** into a single interface —  
+just like real-world command-line tools.
 
 ---
 
-## ⚙️ Features
-- 🔍 Analyzes password length
-- 🔐 Checks for uppercase, lowercase, digits & symbols
-- ⚠️ Detects weak password patterns
-- 📊 Gives clear strength feedback (Weak / Medium / Strong)
-- 💻 Simple & fast CLI-based interaction
+## ⚙️ Included Modules
+- 🖥 System Information Analyzer
+- 🔐 Password Strength Auditor
+- 🧬 Hash Generator (MD5 / SHA1 / SHA256)
+- 📂 File & Directory Scanner
 
 ---
 
@@ -35,5 +31,5 @@ Instead of relying on tools, this project focuses on
 ```text
 Language        : Python
 Environment     : Linux-based CLI
-Concepts Used  : String handling, conditionals, loops
-Focus Area     : Security fundamentals
+Core Skills     : Automation, Security Fundamentals
+Concepts Used  : OS interaction, hashing, logic building
